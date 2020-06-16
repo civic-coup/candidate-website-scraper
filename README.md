@@ -1,4 +1,4 @@
-# Civic Coup Scraper
+# Canidate Website Scraper
 
 This scrapper retrieves candidate websites given a csv of candidate names and the office they're running for.
 
